@@ -20,6 +20,9 @@ http://ftp.sjtu.edu.cn/sites/ftp.kernel.org/pub/linux/kernel/
 
 
 
+##### cmd 
+git remote set-url origin https://token@github.com/name/Repositories.git
+
 
 ###############################################################
 # others 
